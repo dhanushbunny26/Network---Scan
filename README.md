@@ -24,4 +24,4 @@ Scan a local network and identify open ports and potential security risks.
 - Wireshark helps visualize live network behavior
 
 ## Screenshots:
-![Scan](./wireshark.png)
+![Scan](./wireshark.jpg)
